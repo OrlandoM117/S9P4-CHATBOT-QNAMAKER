@@ -10,7 +10,7 @@
 
 ## TUTORIAL
 
-**1.-Primero nos vamos a [Qnamaker](https://qnamaker.ia/) y le damos en "Create a knowledge base"**
+**1.-Primero nos vamos a [Qnamaker](https://www.qnamaker.ai/) y le damos en "Create a knowledge base"**
 
 ![imagen 1](imagenes/1.png)
 
